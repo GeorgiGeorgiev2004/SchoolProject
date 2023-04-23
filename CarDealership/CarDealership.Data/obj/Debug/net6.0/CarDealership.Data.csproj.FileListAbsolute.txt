@@ -1,0 +1,14 @@
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.deps.json
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.runtimeconfig.json
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.dll
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\bin\Debug\net6.0\CarDealership.Data.pdb
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.csproj.AssemblyReference.cache
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.GeneratedMSBuildEditorConfig.editorconfig
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.AssemblyInfoInputs.cache
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.AssemblyInfo.cs
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.csproj.CoreCompileInputs.cache
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.dll
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\refint\CarDealership.Data.dll
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.pdb
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\CarDealership.Data.genruntimeconfig.cache
+E:\PotentialVirus\InformatikaProekt12A\CarDealership\CarDealership.Data\obj\Debug\net6.0\ref\CarDealership.Data.dll

@@ -1,0 +1,182 @@
+[
+    {
+        "Cost": 670,
+        "FuelType": 0,
+        "HorsePower": 301,
+        "LicensePlate": "CA6549PC",
+        "Make": 0,
+        "Mileage": 250000,
+        "Model": "Avalon"
+    },
+    {
+        "Cost": 830,
+        "FuelType": 0,
+        "HorsePower": 360,
+        "LicensePlate": "CA6869PC",
+        "Make": 0,
+        "Mileage": 200000,
+        "Model": "Camry "
+    },
+    {
+        "Cost": 770,
+        "FuelType": 1,
+        "HorsePower": 381,
+        "LicensePlate": "CA7359PC",
+        "Make": 1,
+        "Mileage": 360000,
+        "Model": "X7"
+    },
+    {
+        "Cost": 470,
+        "FuelType": 1,
+        "HorsePower": 340,
+        "LicensePlate": "CA1256PC",
+        "Make": 1,
+        "Mileage": 460000,
+        "Model": "Z4"
+    },
+    {
+        "Cost": 900,
+        "FuelType": 2,
+        "HorsePower": 402,
+        "LicensePlate": "CA7305PC",
+        "Make": 2,
+        "Mileage": 300000,
+        "Model": "Q8"
+    },
+    {
+        "Cost": 370,
+        "FuelType": 1,
+        "HorsePower": 201,
+        "LicensePlate": "CA8240PC",
+        "Make": 2,
+        "Mileage": 1020498,
+        "Model": "A3"
+    },
+    {
+        "Cost": 350,
+        "FuelType": 1,
+        "HorsePower": 105,
+        "LicensePlate": "CA9514PC",
+        "Make": 3,
+        "Mileage": 1426842,
+        "Model": "Corsa"
+    },
+    {
+        "Cost": 370,
+        "FuelType": 1,
+        "HorsePower": 130,
+        "LicensePlate": "CA7812PC",
+        "Make": 3,
+        "Mileage": 1368872,
+        "Model": "Mokka"
+    },
+    {
+        "Cost": 1200,
+        "FuelType": 0,
+        "HorsePower": 577,
+        "LicensePlate": "CA8453PC",
+        "Make": 4,
+        "Mileage": 555555,
+        "Model": "AMG G 63 SUV"
+    },
+    {
+        "Cost": 1180,
+        "FuelType": 1,
+        "HorsePower": 577,
+        "LicensePlate": "CA9842PC",
+        "Make": 4,
+        "Mileage": 498125,
+        "Model": "AMG SL Roadster"
+    },
+    {
+        "Cost": 445,
+        "FuelType": 0,
+        "HorsePower": 120,
+        "LicensePlate": "CA2354PC",
+        "Make": 5,
+        "Mileage": 1865123,
+        "Model": "500X"
+    },
+    {
+        "Cost": 330,
+        "FuelType": 3,
+        "HorsePower": 89,
+        "LicensePlate": "CA8795PC",
+        "Make": 5,
+        "Mileage": 189654,
+        "Model": "Panda Cross"
+    },
+    {
+        "Cost": 550,
+        "FuelType": 2,
+        "HorsePower": 246,
+        "LicensePlate": "CA5694PC",
+        "Make": 6,
+        "Mileage": 98453,
+        "Model": "Outlander PHEV"
+    },
+    {
+        "Cost": 460,
+        "FuelType": 3,
+        "HorsePower": 301,
+        "LicensePlate": "CA6823PC",
+        "Make":6,
+        "Mileage": 98452,
+        "Model": "Mirage"
+    },
+    {
+        "Cost": 654,
+        "FuelType": 3,
+        "HorsePower": 267,
+        "LicensePlate": "CA8979PC",
+        "Make": 7,
+        "Mileage": 804621,
+        "Model": "Atlas"
+    },
+    {
+        "Cost": 600,
+        "FuelType": 3,
+        "HorsePower": 230,
+        "LicensePlate": "CA5913PC",
+        "Make": 7,
+        "Mileage": 804612,
+        "Model": "Arteon"
+    },
+    {
+        "Cost": 368,
+        "FuelType": 2,
+        "HorsePower": 186,
+        "LicensePlate": "CA6542PC",
+        "Make": 8,
+        "Mileage": 400223,
+        "Model": "208"
+    },
+    {
+        "Cost": 490,
+        "FuelType": 1,
+        "HorsePower": 220,
+        "LicensePlate": "CA9831PC",
+        "Make": 8,
+        "Mileage": 654812,
+        "Model": "New 508"
+    },
+    {
+        "Cost": 260,
+        "FuelType": 1,
+        "HorsePower": 103,
+        "LicensePlate": "CA0185PC",
+        "Make": 9,
+        "Mileage": 956412,
+        "Model": "Clio"
+    },
+    {
+        "Cost": 387,
+        "FuelType": 3,
+        "HorsePower": 156,
+        "LicensePlate": "CA9537PC",
+        "Make": 9,
+        "Mileage": 654821,
+        "Model": "Duster"
+    }
+]

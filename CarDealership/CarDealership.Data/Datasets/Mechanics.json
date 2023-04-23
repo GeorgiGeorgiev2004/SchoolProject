@@ -1,0 +1,94 @@
+[
+    {
+        "BirthDate": "01/01/1965",
+        "FirstName": "Masut",
+        "HireDate": "01/01/1989",
+        "IsNewRecruit": false,
+        "LastName": "Delelqnov",
+        "MiddleName": null,
+        "Salary": 4000,
+        "Specialisation": 3,
+        "Vehicles": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    },
+    {
+        "BirthDate": "12/11/1985",
+        "FirstName": "Sliven",
+        "HireDate": "01/01/2006",
+        "IsNewRecruit": false,
+        "LastName": "Belegerov",
+        "MiddleName": null,
+        "Salary": 2500,
+        "Specialisation": 2,
+        "Vehicles": [
+            5,
+            6,
+            7,
+            8,
+			15,
+			20
+        ]
+    },
+    {
+        "BirthDate": "28/03/2004",
+        "FirstName": "Milen",
+        "HireDate": "30/07/2021",
+        "IsNewRecruit": true,
+        "LastName": "Kirilov",
+        "MiddleName": "Iliev",
+        "Salary": 750,
+        "Specialisation": 0,
+        "Vehicles": [
+            8,11,9,16,17
+        ]
+    },
+    {
+        "BirthDate": "15/05/1975",
+        "FirstName": "Milen",
+        "HireDate": "21/06/1992",
+        "IsNewRecruit": false,
+        "LastName": "Delelqnov",
+        "MiddleName": "Norekolski",
+        "Salary": 4400,
+        "Specialisation": 5,
+        "Vehicles": [
+            10,
+            12,
+            13,
+            14,
+            15,
+            16,
+            17,
+            18,
+			19
+        ]
+    },
+    {
+        "BirthDate": "24/07/1995",
+        "FirstName": "Ivan",
+        "HireDate": "06/09/2019",
+        "IsNewRecruit": true,
+        "LastName": "Polenov",
+        "MiddleName": null,
+        "Salary": 1600,
+        "Specialisation": 4,
+        "Vehicles": [
+            1,
+            2,
+            3,
+            4,
+            5,
+            6,
+            7,
+            8
+        ]
+    }
+]

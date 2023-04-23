@@ -1,0 +1,31 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.4.33213.308
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarDealership.Data", "CarDealership.Data\CarDealership.Data.csproj", "{BEC76575-2493-43CF-8096-7D31ED24D009}"
+EndProject
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "CarDealership", "FrontEndMaybe\CarDealership.csproj", "{DDA23FAB-C341-4D9F-B49B-D8216F32E69A}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BEC76575-2493-43CF-8096-7D31ED24D009}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BEC76575-2493-43CF-8096-7D31ED24D009}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BEC76575-2493-43CF-8096-7D31ED24D009}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BEC76575-2493-43CF-8096-7D31ED24D009}.Release|Any CPU.Build.0 = Release|Any CPU
+		{DDA23FAB-C341-4D9F-B49B-D8216F32E69A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{DDA23FAB-C341-4D9F-B49B-D8216F32E69A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{DDA23FAB-C341-4D9F-B49B-D8216F32E69A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{DDA23FAB-C341-4D9F-B49B-D8216F32E69A}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {59430A6C-BDE5-48BC-8D01-8419CF63E350}
+	EndGlobalSection
+EndGlobal

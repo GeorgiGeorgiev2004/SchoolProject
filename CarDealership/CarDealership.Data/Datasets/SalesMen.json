@@ -1,0 +1,353 @@
+[
+  {
+    "BirthDate": "01/01/2002",
+    "FirstName": "Shtefan",
+    "HireDate": "01/01/2022",
+    "LastName": "Mihailov",
+    "MiddleName": "Mile",
+    "Ranking": 0,
+    "Salary": 2300,
+    "Vehicles": [
+      1,
+      4,
+      5
+    ]
+  },
+  {
+    "BirthDate": "13/11/1952",
+    "FirstName": "Ivan",
+    "HireDate": "21/11/2000",
+    "LastName": "Stefanov",
+    "MiddleName": null,
+    "Ranking": 2,
+    "Salary": 5000,
+    "Vehicles": [
+      1,
+      3,
+      5,
+      10,
+      15,
+      19,
+      13
+    ]
+  },
+  {
+    "BirthDate": "01/03/1982",
+    "FirstName": "Emilian",
+    "HireDate": "11/09/2001",
+    "LastName": "Stoqnov",
+    "MiddleName": "Cvetarov",
+    "Ranking": 1,
+    "Salary": 4040,
+    "Vehicles": [
+      1,
+      4,
+      2,
+      7,
+      9
+    ]
+  },
+  {
+    "BirthDate": "13/05/1949",
+    "FirstName": "Lazar",
+    "HireDate": "29/02/2004",
+    "LastName": "Samuilov",
+    "MiddleName": "Donev",
+    "Ranking": 5,
+    "Salary": 4000,
+    "Vehicles": [
+      1,
+      14,
+      5,
+      9,
+      10,
+      11,
+      12,
+      13
+    ]
+  },
+  {
+    "BirthDate": "02/04/1962",
+    "FirstName": "Milosh",
+    "HireDate": "02/08/1992",
+    "LastName": "Garcias",
+    "MiddleName": null,
+    "Ranking": 3,
+    "Salary": 4334,
+    "Vehicles": [
+      11,
+      14,
+      15,
+      16,
+      8
+    ]
+  },
+  {
+    "BirthDate": "04/12/1996",
+    "FirstName": "Petur",
+    "HireDate": "07/07/2022",
+    "LastName": "Beron",
+    "MiddleName": "Ivanovich",
+    "Ranking": 0,
+    "Salary": 879.36,
+    "Vehicles": [
+      1
+    ]
+  },
+  {
+    "BirthDate": "04/04/1974",
+    "FirstName": "Atanas",
+    "HireDate": "11/12/2003",
+    "LastName": "Nodev",
+    "MiddleName": "Malinov",
+    "Ranking": 4,
+    "Salary": 5000,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      12,
+      15,
+      13,
+      9
+    ]
+  },
+  {
+    "BirthDate": "12/01/1982",
+    "FirstName": "Jonas",
+    "HireDate": "09/08/2000",
+    "LastName": "Alekov",
+    "MiddleName": "Kosta",
+    "Ranking": 3,
+    "Salary": 3333.33,
+    "Vehicles": [
+      4,
+      2,
+      5,
+      7,
+      9,
+      11,
+      18
+    ]
+  },
+  {
+    "BirthDate": "11/11/1999",
+    "FirstName": "Misho",
+    "HireDate": "02/28/2018",
+    "LastName": "Pticov",
+    "MiddleName": "Komandante",
+    "Ranking": 2,
+    "Salary": 1234,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      7,
+      9,
+      15,
+      13,
+      12
+    ]
+  },
+  {
+    "BirthDate": "09/10/1957",
+    "FirstName": "Keggles",
+    "HireDate": "17/02/2017",
+    "LastName": "Salitarski",
+    "MiddleName": "Maisiiski",
+    "Ranking": 1,
+    "Salary": 2600,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      18,
+      2,
+      3,
+      6,
+      8,
+      10
+    ]
+  },
+  {
+    "BirthDate": "18/08/1984",
+    "FirstName": "Abu",
+    "HireDate": "01/01/2012",
+    "LastName": "Usuf",
+    "MiddleName": "Mehmed",
+    "Ranking": 3,
+    "Salary": 4032,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      3,
+      7,
+      17,
+      18,
+      19,
+      20
+
+    ]
+  },
+  {
+    "BirthDate": "01/01/2002",
+    "FirstName": "Mustafa",
+    "HireDate": "01/01/2020",
+    "LastName": "Kemal",
+    "MiddleName": null,
+    "Ranking": 1,
+    "Salary": 1700,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      6,
+      7,
+      8
+    ]
+  },
+  {
+    "BirthDate": "02/04/2000",
+    "FirstName": "Stefan",
+    "HireDate": "15/10/2019",
+    "LastName": "Mishkov",
+    "MiddleName": "Dolev",
+    "Ranking": 1,
+    "Salary": 1600,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      3,
+      2,
+      12,
+      10
+    ]
+  },
+  {
+    "BirthDate": "14/04/1994",
+    "FirstName": "Berthus",
+    "HireDate": "03/11/2016",
+    "LastName": "Krempita",
+    "MiddleName": null,
+    "Ranking": 3,
+    "Salary": 2600,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      2,
+      3,
+      16,
+      17,
+      18
+    ]
+  },
+  {
+    "BirthDate": "01/01/1924",
+    "FirstName": "Peeba",
+    "HireDate": "01/01/1952",
+    "LastName": "Braun",
+    "MiddleName": null,
+    "Ranking": 4,
+    "Salary": 5799,
+    "Vehicles": [
+      1,
+      4,
+      5,
+      14,
+      15,
+      16,
+      11,
+      17,
+      18,
+      10
+
+    ]
+  },
+  {
+    "BirthDate": "05/08/1979",
+    "FirstName": "Hristo",
+    "HireDate": "02/03/2012",
+    "LastName": "Mamlukev",
+    "MiddleName": null,
+    "Ranking": 4,
+    "Salary": 4434,
+    "Vehicles": [
+      4,
+      5,
+      18,
+      15,
+      16,
+      13,
+      14,
+      12
+    ]
+  },
+  {
+    "BirthDate": "06/04/1988",
+    "FirstName": "Jordan",
+    "HireDate": "01/01/2010",
+    "LastName": "Jordanov",
+    "MiddleName": null,
+    "Ranking": 3,
+    "Salary": 4400,
+    "Vehicles": [
+      12,
+      13,
+      16,
+      17,
+      9,
+      5
+    ]
+  },
+  {
+    "BirthDate": "26/11/1956",
+    "FirstName": "Mazo",
+    "HireDate": "30/12/1975",
+    "LastName": "Ye",
+    "MiddleName": null,
+    "Ranking": 4,
+    "Salary": 4599,
+    "Vehicles": [
+			4,7,8,1,5
+    ]
+  },
+  {
+    "BirthDate": "02/05/1995",
+    "FirstName": "Danail",
+    "HireDate": "03/05/2017",
+    "LastName": "Danailov",
+    "MiddleName": null,
+    "Ranking": 2,
+    "Salary": 2431,
+    "Vehicles": [
+      8,
+      4,
+      7,
+      3,
+      1,
+      9,
+      16
+    ]
+  },
+  {
+    "BirthDate": "30/01/1986",
+    "FirstName": "Lamer",
+    "HireDate": "15/08/2000",
+    "LastName": "Lambertov",
+    "MiddleName": "Malemitov",
+    "Ranking": 2,
+    "Salary": 1234,
+    "Vehicles": [
+      6,
+      3,
+      1,
+      4,
+      8,
+      2,
+      9
+    ]
+  }
+]

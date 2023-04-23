@@ -1,0 +1,9 @@
+[
+    {
+        "BirthDate": "01/01/0001",
+        "DriverLicense": "123456789",
+        "FirstName": "Server",
+        "LastName": "Owner",
+        "PaymentMethod": 1
+    }
+]
